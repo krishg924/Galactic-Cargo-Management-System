@@ -1,1 +1,3 @@
 # Galactic-Cargo-Management-System
+Project Overview
+The Galactic Cargo Management System (GCMS) is designed to efficiently manage a collection of bins and objects based on their colors, capacities, and specific allocation algorithms. It uses AVL trees to maintain bin and object data structures, ensuring operations such as adding objects, deleting objects, and retrieving information are done efficiently. The system adheres to a time complexity of O(log(n) + log(m)) for most operations and aims for an overall space complexity of O(n + m) where n is the number of bins and m is the number of objects.
