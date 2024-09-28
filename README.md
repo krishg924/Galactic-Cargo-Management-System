@@ -27,5 +27,3 @@ The system follows different algorithms for object placement based on the object
 - OOPS Concept
 
 ---
-
-Feel free to explore the code and the specific algorithms implemented in this system. Contributions and feedback are always welcome!
